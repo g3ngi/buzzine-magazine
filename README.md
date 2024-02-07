@@ -6,3 +6,7 @@ One of my 2nd year english project on high school. We made a magazine and I had 
 - HTML
 - CSS
 - Bootstrap
+
+### Credit
+------------------
+To my friends on grade 11 :D
